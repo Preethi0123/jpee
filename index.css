@@ -1,0 +1,19 @@
+h1,h2
+{
+    color: red;
+    background-color: rgba(0, 0, 0, 0.474);
+    text-align: right;
+}
+body
+{
+    background-color: skyblue;
+}
+div
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border-top-left-radius: 50% ;
+    border-bottom-right-radius: 50%;
+    border: 2px solid white;
+}
